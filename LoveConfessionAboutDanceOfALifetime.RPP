@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.978/OSX64" 1559292755
+<REAPER_PROJECT 0.1 "5.978/OSX64" 1559293057
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -27,9 +27,8 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE ""
-  RENDER_PATTERN ""
-  RENDER_FMT 0 2 0
+  RENDER_FILE "external/生死一舞的爱语(赤羽Cover).wav"
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -43,6 +42,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
+    ZXZhdxgAAA==
   >
   LOCK 1
   <METRONOME 6 2
@@ -68,10 +68,17 @@
   MASTER_FX 1
   MASTER_SEL 0
   <MASTERFXLIST
-    WNDRECT -299 1461 724 387
+    WNDRECT -299 1603 794 245
     SHOW 0
     LASTSEL 0
     DOCKED 0
+    BYPASS 0 0 0
+    <JS loser/masterLimiter ""
+      -3.000000 200.000000 100.000000 0.000000 250.000000 -0.100000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    >
+    FLOATPOS 0 0 0 0
+    FXID {E0985707-AB5C-9348-A30E-1A04E10EA327}
+    WAK 0
   >
   <MASTERPLAYSPEEDENV
     ACT 0 -1
