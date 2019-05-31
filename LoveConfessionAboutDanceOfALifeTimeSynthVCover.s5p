@@ -1,0 +1,2903 @@
+{
+  "version": 7,
+  "meter": [
+    {
+      "measure": 0,
+      "beatPerMeasure": 3,
+      "beatGranularity": 4
+    }
+  ],
+  "tempo": [
+    {
+      "position": 0,
+      "beatPerMinute": 85
+    }
+  ],
+  "tracks": [
+    {
+      "name": "Track 1",
+      "dbName": "五维介质·赤羽",
+      "color": "15e879",
+      "displayOrder": 0,
+      "dbDefaults": {
+        "tension": 0,
+        "breathiness": 0,
+        "gender": 0,
+        "tF0VbrStart": 0.25,
+        "dF0Vbr": 0,
+        "dF0Jitter": 0
+      },
+      "notes": [
+        {
+          "onset": 33163200000,
+          "duration": 352800000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 57,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 33516000000,
+          "duration": 352800000,
+          "lyric": "zai",
+          "comment": "ts aI",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 33868800000,
+          "duration": 705600000,
+          "lyric": "da",
+          "comment": "t a",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 34574400000,
+          "duration": 352800000,
+          "lyric": "mo",
+          "comment": "m o",
+          "pitch": 63,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 34927200000,
+          "duration": 705600000,
+          "lyric": "zhong",
+          "comment": "ts` UN",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 35632800000,
+          "duration": 352800000,
+          "lyric": "ji",
+          "comment": "ts\\ i",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 35985600000,
+          "duration": 705600000,
+          "lyric": "ju",
+          "comment": "ts\\ y",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 37396800000,
+          "duration": 352800000,
+          "lyric": "chao",
+          "comment": "ts`_h AU",
+          "pitch": 57,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 37749600000,
+          "duration": 352800000,
+          "lyric": "xiang",
+          "comment": "s\\ iAN",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 38102400000,
+          "duration": 705600000,
+          "lyric": "ni",
+          "comment": "n i",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 38808000000,
+          "duration": 352800000,
+          "lyric": "zai",
+          "comment": "ts aI",
+          "pitch": 63,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 39160800000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 39866400000,
+          "duration": 352800000,
+          "lyric": "hai",
+          "comment": "x aI",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 40219200000,
+          "duration": 705600000,
+          "lyric": "yu",
+          "comment": "y",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 41630400000,
+          "duration": 705600000,
+          "lyric": "ri",
+          "comment": "z` i`",
+          "pitch": 62,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 42336000000,
+          "duration": 705600000,
+          "lyric": "ye",
+          "comment": "iE_r",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 43041600000,
+          "duration": 705600000,
+          "lyric": "jiao",
+          "comment": "ts\\ iAU",
+          "pitch": 60,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 43747200000,
+          "duration": 705600000,
+          "lyric": "ti",
+          "comment": "t_h i",
+          "pitch": 57,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 44452800000,
+          "duration": 705600000,
+          "lyric": "da",
+          "comment": "t a",
+          "pitch": 60,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 45511200000,
+          "duration": 352800000,
+          "lyric": "feng",
+          "comment": "f @N",
+          "pitch": 57,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 45864000000,
+          "duration": 705600000,
+          "lyric": "chui",
+          "comment": "ts`_h uei",
+          "pitch": 60,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 46569600000,
+          "duration": 2116800000,
+          "lyric": "qi",
+          "comment": "ts\\_h i",
+          "pitch": 59,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 50097600000,
+          "duration": 352800000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 57,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 50450400000,
+          "duration": 352800000,
+          "lyric": "yi",
+          "comment": "i",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 50803200000,
+          "duration": 705600000,
+          "lyric": "sheng",
+          "comment": "s` @N",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 51508800000,
+          "duration": 352800000,
+          "lyric": "suo",
+          "comment": "s uo",
+          "pitch": 63,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 51861600000,
+          "duration": 705600000,
+          "lyric": "you",
+          "comment": "i@U",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 52567200000,
+          "duration": 352800000,
+          "lyric": "dan",
+          "comment": "t a_n",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 52920000000,
+          "duration": 705600000,
+          "lyric": "xi",
+          "comment": "s\\ i",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 54331200000,
+          "duration": 352800000,
+          "lyric": "dou",
+          "comment": "t @U",
+          "pitch": 57,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 54684000000,
+          "duration": 352800000,
+          "lyric": "ji",
+          "comment": "ts\\ i",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 55036800000,
+          "duration": 705600000,
+          "lyric": "yu",
+          "comment": "y",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 55742400000,
+          "duration": 352800000,
+          "lyric": "ta",
+          "comment": "t_h a",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 56095200000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 56800800000,
+          "duration": 352800000,
+          "lyric": "mei",
+          "comment": "m ei",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 57153600000,
+          "duration": 705600000,
+          "lyric": "li",
+          "comment": "l i",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 58564800000,
+          "duration": 705600000,
+          "lyric": "ku",
+          "comment": "k_h u",
+          "pitch": 57,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 59270400000,
+          "duration": 705600000,
+          "lyric": "ku",
+          "comment": "k_h u",
+          "pitch": 60,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 59976000000,
+          "duration": 705600000,
+          "lyric": "ti",
+          "comment": "t_h i",
+          "pitch": 59,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 60681600000,
+          "duration": 705600000,
+          "lyric": "ti",
+          "comment": "t_h i",
+          "pitch": 60,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 61387200000,
+          "duration": 705600000,
+          "lyric": "re",
+          "comment": "z` 7",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 62092800000,
+          "duration": 705600000,
+          "lyric": "ni",
+          "comment": "n i",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 62798400000,
+          "duration": 705600000,
+          "lyric": "lian",
+          "comment": "l iE_n",
+          "pitch": 63,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 63504000000,
+          "duration": 2116800000,
+          "lyric": "xi",
+          "comment": "s\\ i",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 67032000000,
+          "duration": 352800000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 67384800000,
+          "duration": 352800000,
+          "lyric": "shi",
+          "comment": "s` i`",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 67737600000,
+          "duration": 352800000,
+          "lyric": "long",
+          "comment": "l UN",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 68090400000,
+          "duration": 352800000,
+          "lyric": "she",
+          "comment": "s` 7",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 68443200000,
+          "duration": 352800000,
+          "lyric": "lan",
+          "comment": "l a_n",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 68796000000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 69501600000,
+          "duration": 352800000,
+          "lyric": "hua",
+          "comment": "x ua",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 69854400000,
+          "duration": 1411200000,
+          "lyric": "duo",
+          "comment": "t uo",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 71618400000,
+          "duration": 352800000,
+          "lyric": "yuan",
+          "comment": "y{_n",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 71971200000,
+          "duration": 352800000,
+          "lyric": "wei",
+          "comment": "uei",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 72324000000,
+          "duration": 352800000,
+          "lyric": "ni",
+          "comment": "n i",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 72676800000,
+          "duration": 352800000,
+          "lyric": "sheng",
+          "comment": "s` @N",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 73029600000,
+          "duration": 705600000,
+          "lyric": "si",
+          "comment": "s i\\",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 73735200000,
+          "duration": 352800000,
+          "lyric": "yi",
+          "comment": "i",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 74088000000,
+          "duration": 1411200000,
+          "lyric": "wu",
+          "comment": "u",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 75852000000,
+          "duration": 352800000,
+          "lyric": "qi",
+          "comment": "ts\\_h i",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 76204800000,
+          "duration": 1058400000,
+          "lyric": "qiu",
+          "comment": "ts\\_h i@U",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 77263200000,
+          "duration": 1058400000,
+          "lyric": "zhe",
+          "comment": "ts` 7",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 78321600000,
+          "duration": 705600000,
+          "lyric": "neng",
+          "comment": "n @N",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 79027200000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 79732800000,
+          "duration": 705600000,
+          "lyric": "ni",
+          "comment": "n i",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 80438400000,
+          "duration": 1411200000,
+          "lyric": "qing",
+          "comment": "ts\\_h iN",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 81849600000,
+          "duration": 705600000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 82555200000,
+          "duration": 1058400000,
+          "lyric": "fu",
+          "comment": "f u",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 83966400000,
+          "duration": 352800000,
+          "lyric": "shi",
+          "comment": "s` i`",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 84319200000,
+          "duration": 352800000,
+          "lyric": "guang",
+          "comment": "k uAN",
+          "pitch": 77,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 84672000000,
+          "duration": 705600000,
+          "lyric": "xie",
+          "comment": "s\\ iE_r",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 85377600000,
+          "duration": 352800000,
+          "lyric": "zhe",
+          "comment": "ts` 7",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 85730400000,
+          "duration": 352800000,
+          "lyric": "chong",
+          "comment": "ts`_h UN",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 86083200000,
+          "duration": 352800000,
+          "lyric": "bai",
+          "comment": "p aI",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 86436000000,
+          "duration": 352800000,
+          "lyric": "hui",
+          "comment": "x uei",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 86788800000,
+          "duration": 1058400000,
+          "lyric": "su",
+          "comment": "s u",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 88200000000,
+          "duration": 352800000,
+          "lyric": "di",
+          "comment": "t i",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 88552800000,
+          "duration": 352800000,
+          "lyric": "yi",
+          "comment": "i",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 88905600000,
+          "duration": 705600000,
+          "lyric": "yan",
+          "comment": "iE_n",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 89611200000,
+          "duration": 352800000,
+          "lyric": "jiu",
+          "comment": "ts\\ i@U",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 89964000000,
+          "duration": 352800000,
+          "lyric": "peng",
+          "comment": "p_h @N",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 90316800000,
+          "duration": 352800000,
+          "lyric": "ran",
+          "comment": "z` a_n",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 90669600000,
+          "duration": 352800000,
+          "lyric": "xin",
+          "comment": "s\\ i_n",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 91022400000,
+          "duration": 1058400000,
+          "lyric": "dong",
+          "comment": "t UN",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 92433600000,
+          "duration": 705600000,
+          "lyric": "hai",
+          "comment": "x aI",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 93139200000,
+          "duration": 1058400000,
+          "lyric": "guan",
+          "comment": "k ua_n",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 94197600000,
+          "duration": 352800000,
+          "lyric": "ta",
+          "comment": "t_h a",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 94550400000,
+          "duration": 705600000,
+          "lyric": "shen",
+          "comment": "s` @_n",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 95256000000,
+          "duration": 1058400000,
+          "lyric": "me",
+          "comment": "m 7",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 96314400000,
+          "duration": 705600000,
+          "lyric": "dui",
+          "comment": "t uei",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 97020000000,
+          "duration": 352800000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 77,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 97372800000,
+          "duration": 2116800000,
+          "lyric": "cuo",
+          "comment": "ts_h uo",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 100900800000,
+          "duration": 352800000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 57,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 101253600000,
+          "duration": 352800000,
+          "lyric": "zai",
+          "comment": "ts aI",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 101606400000,
+          "duration": 705600000,
+          "lyric": "xing",
+          "comment": "s\\ iN",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 102312000000,
+          "duration": 352800000,
+          "lyric": "ye",
+          "comment": "iE_r",
+          "pitch": 63,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 102664800000,
+          "duration": 705600000,
+          "lyric": "li",
+          "comment": "l i",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 103370400000,
+          "duration": 352800000,
+          "lyric": "chuan",
+          "comment": "ts`_h ua_n",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 103723200000,
+          "duration": 705600000,
+          "lyric": "suo",
+          "comment": "s uo",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 105134400000,
+          "duration": 352800000,
+          "lyric": "bei",
+          "comment": "p ei",
+          "pitch": 57,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 105487200000,
+          "duration": 352800000,
+          "lyric": "hei",
+          "comment": "x ei",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 105840000000,
+          "duration": 705600000,
+          "lyric": "ye",
+          "comment": "iE_r",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 106545600000,
+          "duration": 352800000,
+          "lyric": "qin",
+          "comment": "ts\\_h i_n",
+          "pitch": 63,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 106898400000,
+          "duration": 705600000,
+          "lyric": "xi",
+          "comment": "s\\ i",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 107604000000,
+          "duration": 352800000,
+          "lyric": "chen",
+          "comment": "ts`_h @_n",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 107956800000,
+          "duration": 705600000,
+          "lyric": "mo",
+          "comment": "m o",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 109368000000,
+          "duration": 705600000,
+          "lyric": "ni",
+          "comment": "n i",
+          "pitch": 62,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 110073600000,
+          "duration": 705600000,
+          "lyric": "suo",
+          "comment": "s uo",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 110779200000,
+          "duration": 705600000,
+          "lyric": "ai",
+          "comment": "aI",
+          "pitch": 60,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 111484800000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 57,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 112190400000,
+          "duration": 705600000,
+          "lyric": "jia",
+          "comment": "ts\\ ia",
+          "pitch": 60,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 112896000000,
+          "duration": 705600000,
+          "lyric": "zhuang",
+          "comment": "ts` uAN",
+          "pitch": 57,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 113601600000,
+          "duration": 705600000,
+          "lyric": "shi",
+          "comment": "s` i`",
+          "pitch": 60,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 114307200000,
+          "duration": 2116800000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 59,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 117835200000,
+          "duration": 352800000,
+          "lyric": "bei",
+          "comment": "p ei",
+          "pitch": 57,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 118188000000,
+          "duration": 352800000,
+          "lyric": "ni",
+          "comment": "n i",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 118540800000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 119246400000,
+          "duration": 352800000,
+          "lyric": "yan",
+          "comment": "iE_n",
+          "pitch": 63,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 119599200000,
+          "duration": 705600000,
+          "lyric": "shen",
+          "comment": "s` @_n",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 120304800000,
+          "duration": 352800000,
+          "lyric": "bu",
+          "comment": "p u",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 120657600000,
+          "duration": 705600000,
+          "lyric": "huo",
+          "comment": "x uo",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 122068800000,
+          "duration": 352800000,
+          "lyric": "wang",
+          "comment": "uAN",
+          "pitch": 57,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 122421600000,
+          "duration": 352800000,
+          "lyric": "xiang",
+          "comment": "s\\ iAN",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 122774400000,
+          "duration": 705600000,
+          "lyric": "zhe",
+          "comment": "ts` 7",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 123480000000,
+          "duration": 352800000,
+          "lyric": "bei",
+          "comment": "p ei",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 123832800000,
+          "duration": 705600000,
+          "lyric": "ni",
+          "comment": "n i",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 124538400000,
+          "duration": 352800000,
+          "lyric": "tun",
+          "comment": "t_h u@_n",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 124891200000,
+          "duration": 705600000,
+          "lyric": "mo",
+          "comment": "m o",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 126302400000,
+          "duration": 705600000,
+          "lyric": "ni",
+          "comment": "n i",
+          "pitch": 62,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 127008000000,
+          "duration": 705600000,
+          "lyric": "suo",
+          "comment": "s uo",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 127713600000,
+          "duration": 705600000,
+          "lyric": "ai",
+          "comment": "aI",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 128419200000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 129124800000,
+          "duration": 705600000,
+          "lyric": "yi",
+          "comment": "i",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 129830400000,
+          "duration": 705600000,
+          "lyric": "ding",
+          "comment": "t iN",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 130536000000,
+          "duration": 705600000,
+          "lyric": "shi",
+          "comment": "s` i`",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 131241600000,
+          "duration": 2116800000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 134769600000,
+          "duration": 352800000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 135122400000,
+          "duration": 352800000,
+          "lyric": "shi",
+          "comment": "s` i`",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 135475200000,
+          "duration": 352800000,
+          "lyric": "long",
+          "comment": "l UN",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 135828000000,
+          "duration": 352800000,
+          "lyric": "she",
+          "comment": "s` 7",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 136180800000,
+          "duration": 352800000,
+          "lyric": "lan",
+          "comment": "l a_n",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 136533600000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 137239200000,
+          "duration": 352800000,
+          "lyric": "hua",
+          "comment": "x ua",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 137592000000,
+          "duration": 1411200000,
+          "lyric": "duo",
+          "comment": "t uo",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 139356000000,
+          "duration": 352800000,
+          "lyric": "niang",
+          "comment": "n iAN",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 139708800000,
+          "duration": 352800000,
+          "lyric": "zhe",
+          "comment": "ts` 7",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 140061600000,
+          "duration": 352800000,
+          "lyric": "ai",
+          "comment": "aI",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 140414400000,
+          "duration": 352800000,
+          "lyric": "qing",
+          "comment": "ts\\_h iN",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 140767200000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 141472800000,
+          "duration": 352800000,
+          "lyric": "du",
+          "comment": "t u",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 141825600000,
+          "duration": 1411200000,
+          "lyric": "guo",
+          "comment": "k uo",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 143589600000,
+          "duration": 352800000,
+          "lyric": "zhe",
+          "comment": "ts` 7",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 143942400000,
+          "duration": 1058400000,
+          "lyric": "yi",
+          "comment": "i",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 145000800000,
+          "duration": 1058400000,
+          "lyric": "bei",
+          "comment": "p ei",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 146059200000,
+          "duration": 176400000,
+          "lyric": "jiao",
+          "comment": "ts\\ iAU",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 146235600000,
+          "duration": 529200000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 146764800000,
+          "duration": 529200000,
+          "lyric": "zuo",
+          "comment": "ts uo",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 147294000000,
+          "duration": 176400000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 147470400000,
+          "duration": 705600000,
+          "lyric": "cui",
+          "comment": "ts_h uei",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 148176000000,
+          "duration": 1764000000,
+          "lyric": "ruo",
+          "comment": "z` uo",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 149940000000,
+          "duration": 352800000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 150292800000,
+          "duration": 1058400000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 152056800000,
+          "duration": 352800000,
+          "lyric": "ru",
+          "comment": "z` u",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 152409600000,
+          "duration": 1411200000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 154173600000,
+          "duration": 352800000,
+          "lyric": "chi",
+          "comment": "ts`_h i`",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 154526400000,
+          "duration": 1411200000,
+          "lyric": "luo",
+          "comment": "l uo",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 156290400000,
+          "duration": 352800000,
+          "lyric": "ti",
+          "comment": "t_h i",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 156643200000,
+          "duration": 1411200000,
+          "lyric": "lei",
+          "comment": "l ei",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 158407200000,
+          "duration": 352800000,
+          "lyric": "pang",
+          "comment": "p_h AN",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 158760000000,
+          "duration": 1058400000,
+          "lyric": "tuo",
+          "comment": "t_h uo",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 160171200000,
+          "duration": 352800000,
+          "lyric": "ni",
+          "comment": "n i",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 160524000000,
+          "duration": 352800000,
+          "lyric": "shi",
+          "comment": "s` i`",
+          "pitch": 77,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 160876800000,
+          "duration": 176400000,
+          "lyric": "qiu",
+          "comment": "ts\\_h i@U",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 161053200000,
+          "duration": 529200000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 161582400000,
+          "duration": 705600000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 162288000000,
+          "duration": 705600000,
+          "lyric": "yu",
+          "comment": "y",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 162993600000,
+          "duration": 176400000,
+          "lyric": "sheng",
+          "comment": "s` @N",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 163170000000,
+          "duration": 529200000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 163699200000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 164404800000,
+          "duration": 705600000,
+          "lyric": "jia",
+          "comment": "ts\\ ia",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 165110400000,
+          "duration": 705600000,
+          "lyric": "suo",
+          "comment": "s uo",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 185572800000,
+          "duration": 352800000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 185925600000,
+          "duration": 352800000,
+          "lyric": "shi",
+          "comment": "s` i`",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 186278400000,
+          "duration": 352800000,
+          "lyric": "long",
+          "comment": "l UN",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 186631200000,
+          "duration": 352800000,
+          "lyric": "she",
+          "comment": "s` 7",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 186984000000,
+          "duration": 352800000,
+          "lyric": "lan",
+          "comment": "l a_n",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 187336800000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 188042400000,
+          "duration": 352800000,
+          "lyric": "hua",
+          "comment": "x ua",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 188395200000,
+          "duration": 1411200000,
+          "lyric": "duo",
+          "comment": "t uo",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 190159200000,
+          "duration": 352800000,
+          "lyric": "zhi",
+          "comment": "ts` i`",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 190512000000,
+          "duration": 352800000,
+          "lyric": "wei",
+          "comment": "uei",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 190864800000,
+          "duration": 352800000,
+          "lyric": "ni",
+          "comment": "n i",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 191217600000,
+          "duration": 352800000,
+          "lyric": "sheng",
+          "comment": "s` @N",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 191570400000,
+          "duration": 705600000,
+          "lyric": "si",
+          "comment": "s i\\",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 192276000000,
+          "duration": 352800000,
+          "lyric": "yi",
+          "comment": "i",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 192628800000,
+          "duration": 1411200000,
+          "lyric": "wu",
+          "comment": "u",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 194392800000,
+          "duration": 352800000,
+          "lyric": "qi",
+          "comment": "ts\\_h i",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 194745600000,
+          "duration": 1058400000,
+          "lyric": "qiu",
+          "comment": "ts\\_h i@U",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 195804000000,
+          "duration": 1058400000,
+          "lyric": "zhe",
+          "comment": "ts` 7",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 196862400000,
+          "duration": 176400000,
+          "lyric": "ni",
+          "comment": "n i",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 197038800000,
+          "duration": 882000000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 197920800000,
+          "duration": 176400000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 198097200000,
+          "duration": 176400000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 198273600000,
+          "duration": 352800000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 198626400000,
+          "duration": 352800000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 198979200000,
+          "duration": 1764000000,
+          "lyric": "ai",
+          "comment": "aI",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 200743200000,
+          "duration": 352800000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 201096000000,
+          "duration": 1764000000,
+          "lyric": "fu",
+          "comment": "f u",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 203212800000,
+          "duration": 705600000,
+          "lyric": "kuang",
+          "comment": "k_h uAN",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 203918400000,
+          "duration": 705600000,
+          "lyric": "feng",
+          "comment": "f @N",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 204624000000,
+          "duration": 352800000,
+          "lyric": "da",
+          "comment": "t a",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 204976800000,
+          "duration": 352800000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 77,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 205329600000,
+          "duration": 352800000,
+          "lyric": "zuo",
+          "comment": "ts uo",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 205682400000,
+          "duration": 705600000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 206740800000,
+          "duration": 705600000,
+          "lyric": "yi",
+          "comment": "i",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 207446400000,
+          "duration": 352800000,
+          "lyric": "ai",
+          "comment": "aI",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 207799200000,
+          "duration": 1058400000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 208857600000,
+          "duration": 176400000,
+          "lyric": "fen",
+          "comment": "f @_n",
+          "pitch": 79,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 209034000000,
+          "duration": 529200000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 81,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 209563200000,
+          "duration": 176400000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 79,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 209739600000,
+          "duration": 1234800000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 81,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 210974400000,
+          "duration": 352800000,
+          "lyric": "xiao",
+          "comment": "s\\ iAU",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 211327200000,
+          "duration": 352800000,
+          "lyric": "zhe",
+          "comment": "ts` 7",
+          "pitch": 77,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 211680000000,
+          "duration": 176400000,
+          "lyric": "ku",
+          "comment": "k_h u",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 211856400000,
+          "duration": 529200000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 212385600000,
+          "duration": 705600000,
+          "lyric": "wei",
+          "comment": "uei",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 213796800000,
+          "duration": 705600000,
+          "lyric": "bu",
+          "comment": "p u",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 214502400000,
+          "duration": 176400000,
+          "lyric": "ju",
+          "comment": "ts\\ y",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 214678800000,
+          "duration": 882000000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 215560800000,
+          "duration": 352800000,
+          "lyric": "zhui",
+          "comment": "ts` uei",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 215913600000,
+          "duration": 1411200000,
+          "lyric": "luo",
+          "comment": "l uo",
+          "pitch": 76,
+          "dF0Vbr": 0
+        }
+      ],
+      "gsEvents": null,
+      "mixer": {
+        "gainDecibel": 0,
+        "pan": 0,
+        "muted": false,
+        "solo": false,
+        "engineOn": true,
+        "display": true
+      },
+      "parameters": {
+        "interval": 5512500,
+        "pitchDelta": [
+          0,
+          0
+        ],
+        "vibratoEnv": [
+          0,
+          0
+        ],
+        "loudness": [
+          0,
+          0
+        ],
+        "tension": [
+          0,
+          0
+        ],
+        "breathiness": [
+          0,
+          0
+        ],
+        "voicing": [
+          0,
+          0
+        ],
+        "gender": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "name": "Track 2",
+      "dbName": "五维介质·赤羽",
+      "color": "ff1599e8",
+      "displayOrder": 1,
+      "dbDefaults": {},
+      "notes": [
+        {
+          "onset": 134769600000,
+          "duration": 352800000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 135122400000,
+          "duration": 352800000,
+          "lyric": "shi",
+          "comment": "s` i`",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 135475200000,
+          "duration": 352800000,
+          "lyric": "long",
+          "comment": "l UN",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 135828000000,
+          "duration": 352800000,
+          "lyric": "she",
+          "comment": "s` 7",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 136180800000,
+          "duration": 352800000,
+          "lyric": "lan",
+          "comment": "l a_n",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 136533600000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 137239200000,
+          "duration": 352800000,
+          "lyric": "hua",
+          "comment": "x ua",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 137592000000,
+          "duration": 1411200000,
+          "lyric": "duo",
+          "comment": "t uo",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 139356000000,
+          "duration": 352800000,
+          "lyric": "niang",
+          "comment": "n iAN",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 139708800000,
+          "duration": 352800000,
+          "lyric": "zhe",
+          "comment": "ts` 7",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 140061600000,
+          "duration": 352800000,
+          "lyric": "ai",
+          "comment": "aI",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 140414400000,
+          "duration": 352800000,
+          "lyric": "qing",
+          "comment": "ts\\_h iN",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 140767200000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 141472800000,
+          "duration": 352800000,
+          "lyric": "du",
+          "comment": "t u",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 141825600000,
+          "duration": 1411200000,
+          "lyric": "guo",
+          "comment": "k uo",
+          "pitch": 60,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 143589600000,
+          "duration": 352800000,
+          "lyric": "zhe",
+          "comment": "ts` 7",
+          "pitch": 60,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 143942400000,
+          "duration": 1058400000,
+          "lyric": "yi",
+          "comment": "i",
+          "pitch": 62,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 145000800000,
+          "duration": 1058400000,
+          "lyric": "bei",
+          "comment": "p ei",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 146059200000,
+          "duration": 176400000,
+          "lyric": "jiao",
+          "comment": "ts\\ iAU",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 146235600000,
+          "duration": 529200000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 146764800000,
+          "duration": 529200000,
+          "lyric": "zuo",
+          "comment": "ts uo",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 147294000000,
+          "duration": 176400000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 147470400000,
+          "duration": 705600000,
+          "lyric": "cui",
+          "comment": "ts_h uei",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 148176000000,
+          "duration": 1764000000,
+          "lyric": "ruo",
+          "comment": "z` uo",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 149940000000,
+          "duration": 352800000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 150292800000,
+          "duration": 1058400000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 160171200000,
+          "duration": 352800000,
+          "lyric": "ni",
+          "comment": "n i",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 160524000000,
+          "duration": 352800000,
+          "lyric": "shi",
+          "comment": "s` i`",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 160876800000,
+          "duration": 176400000,
+          "lyric": "qiu",
+          "comment": "ts\\_h i@U",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 161053200000,
+          "duration": 529200000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 161582400000,
+          "duration": 705600000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 162288000000,
+          "duration": 705600000,
+          "lyric": "yu",
+          "comment": "y",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 162993600000,
+          "duration": 176400000,
+          "lyric": "sheng",
+          "comment": "s` @N",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 163170000000,
+          "duration": 529200000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 163699200000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 164404800000,
+          "duration": 705600000,
+          "lyric": "jia",
+          "comment": "ts\\ ia",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 165110400000,
+          "duration": 705600000,
+          "lyric": "suo",
+          "comment": "s uo",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 185572800000,
+          "duration": 352800000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 185925600000,
+          "duration": 352800000,
+          "lyric": "shi",
+          "comment": "s` i`",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 186278400000,
+          "duration": 352800000,
+          "lyric": "long",
+          "comment": "l UN",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 186631200000,
+          "duration": 352800000,
+          "lyric": "she",
+          "comment": "s` 7",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 186984000000,
+          "duration": 352800000,
+          "lyric": "lan",
+          "comment": "l a_n",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 187336800000,
+          "duration": 705600000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 188042400000,
+          "duration": 352800000,
+          "lyric": "hua",
+          "comment": "x ua",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 188395200000,
+          "duration": 1411200000,
+          "lyric": "duo",
+          "comment": "t uo",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 190159200000,
+          "duration": 352800000,
+          "lyric": "zhi",
+          "comment": "ts` i`",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 190512000000,
+          "duration": 352800000,
+          "lyric": "wei",
+          "comment": "uei",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 190864800000,
+          "duration": 352800000,
+          "lyric": "ni",
+          "comment": "n i",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 191217600000,
+          "duration": 352800000,
+          "lyric": "sheng",
+          "comment": "s` @N",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 191570400000,
+          "duration": 705600000,
+          "lyric": "si",
+          "comment": "s i\\",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 192276000000,
+          "duration": 352800000,
+          "lyric": "yi",
+          "comment": "i",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 192628800000,
+          "duration": 1411200000,
+          "lyric": "wu",
+          "comment": "u",
+          "pitch": 60,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 194392800000,
+          "duration": 352800000,
+          "lyric": "qi",
+          "comment": "ts\\_h i",
+          "pitch": 60,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 194745600000,
+          "duration": 1058400000,
+          "lyric": "qiu",
+          "comment": "ts\\_h i@U",
+          "pitch": 62,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 195804000000,
+          "duration": 1058400000,
+          "lyric": "zhe",
+          "comment": "ts` 7",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 196862400000,
+          "duration": 176400000,
+          "lyric": "ni",
+          "comment": "n i",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 197038800000,
+          "duration": 882000000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 197920800000,
+          "duration": 176400000,
+          "lyric": "de",
+          "comment": "t 7",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 198097200000,
+          "duration": 176400000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 198273600000,
+          "duration": 352800000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 67,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 198626400000,
+          "duration": 352800000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 198979200000,
+          "duration": 1764000000,
+          "lyric": "ai",
+          "comment": "aI",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 200743200000,
+          "duration": 352800000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 201096000000,
+          "duration": 1764000000,
+          "lyric": "fu",
+          "comment": "f u",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 203212800000,
+          "duration": 705600000,
+          "lyric": "kuang",
+          "comment": "k_h uAN",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 203918400000,
+          "duration": 705600000,
+          "lyric": "feng",
+          "comment": "f @N",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 204624000000,
+          "duration": 352800000,
+          "lyric": "da",
+          "comment": "t a",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 204976800000,
+          "duration": 352800000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 205329600000,
+          "duration": 352800000,
+          "lyric": "zuo",
+          "comment": "ts uo",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 205682400000,
+          "duration": 705600000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 206740800000,
+          "duration": 705600000,
+          "lyric": "yi",
+          "comment": "i",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 207446400000,
+          "duration": 352800000,
+          "lyric": "ai",
+          "comment": "aI",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 207799200000,
+          "duration": 1058400000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 208857600000,
+          "duration": 176400000,
+          "lyric": "fen",
+          "comment": "f @_n",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 209034000000,
+          "duration": 529200000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 209563200000,
+          "duration": 176400000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 209739600000,
+          "duration": 1234800000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 76,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 210974400000,
+          "duration": 352800000,
+          "lyric": "xiao",
+          "comment": "s\\ iAU",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 211327200000,
+          "duration": 352800000,
+          "lyric": "zhe",
+          "comment": "ts` 7",
+          "pitch": 74,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 211680000000,
+          "duration": 176400000,
+          "lyric": "ku",
+          "comment": "k_h u",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 211856400000,
+          "duration": 529200000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 212385600000,
+          "duration": 705600000,
+          "lyric": "wei",
+          "comment": "uei",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 213796800000,
+          "duration": 705600000,
+          "lyric": "bu",
+          "comment": "p u",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 214502400000,
+          "duration": 176400000,
+          "lyric": "ju",
+          "comment": "ts\\ y",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 214678800000,
+          "duration": 882000000,
+          "lyric": "-",
+          "comment": "-",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 215560800000,
+          "duration": 352800000,
+          "lyric": "zhui",
+          "comment": "ts` uei",
+          "pitch": 71,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 215913600000,
+          "duration": 1411200000,
+          "lyric": "luo",
+          "comment": "l uo",
+          "pitch": 72,
+          "dF0Vbr": 0
+        }
+      ],
+      "gsEvents": null,
+      "mixer": {
+        "gainDecibel": 0,
+        "pan": 0,
+        "muted": false,
+        "solo": false,
+        "engineOn": true,
+        "display": true
+      },
+      "parameters": {
+        "interval": 5512500,
+        "pitchDelta": [
+          0,
+          0
+        ],
+        "vibratoEnv": [
+          0,
+          0
+        ],
+        "loudness": [
+          0,
+          0
+        ],
+        "tension": [
+          0,
+          0
+        ],
+        "breathiness": [
+          0,
+          0
+        ],
+        "voicing": [
+          0,
+          0
+        ],
+        "gender": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "name": "Track 3",
+      "dbName": "五维介质·赤羽",
+      "color": "ff4f15e8",
+      "displayOrder": 2,
+      "dbDefaults": {},
+      "notes": [
+        {
+          "onset": 153115200000,
+          "duration": 352800000,
+          "lyric": "ru",
+          "comment": "z` u",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 153468000000,
+          "duration": 705600000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 155232000000,
+          "duration": 352800000,
+          "lyric": "chi",
+          "comment": "ts`_h i`",
+          "pitch": 68,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 155584800000,
+          "duration": 705600000,
+          "lyric": "luo",
+          "comment": "l uo",
+          "pitch": 68,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 157348800000,
+          "duration": 352800000,
+          "lyric": "ti",
+          "comment": "t_h i",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 157701600000,
+          "duration": 705600000,
+          "lyric": "lei",
+          "comment": "l ei",
+          "pitch": 72,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 159465600000,
+          "duration": 352800000,
+          "lyric": "pang",
+          "comment": "p_h AN",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 159818400000,
+          "duration": 352800000,
+          "lyric": "tuo",
+          "comment": "t_h uo",
+          "pitch": 69,
+          "dF0Vbr": 0
+        }
+      ],
+      "gsEvents": null,
+      "mixer": {
+        "gainDecibel": 0,
+        "pan": 0,
+        "muted": false,
+        "solo": false,
+        "engineOn": true,
+        "display": true
+      },
+      "parameters": {
+        "interval": 5512500,
+        "pitchDelta": [
+          0,
+          0
+        ],
+        "vibratoEnv": [
+          0,
+          0
+        ],
+        "loudness": [
+          0,
+          0
+        ],
+        "tension": [
+          0,
+          0
+        ],
+        "breathiness": [
+          0,
+          0
+        ],
+        "voicing": [
+          0,
+          0
+        ],
+        "gender": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "name": "Track 4",
+      "dbName": "五维介质·赤羽",
+      "color": "ffe815c3",
+      "displayOrder": 3,
+      "dbDefaults": {},
+      "notes": [
+        {
+          "onset": 153115200000,
+          "duration": 352800000,
+          "lyric": "ru",
+          "comment": "z` u",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 153468000000,
+          "duration": 705600000,
+          "lyric": "wo",
+          "comment": "uo",
+          "pitch": 65,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 155232000000,
+          "duration": 352800000,
+          "lyric": "chi",
+          "comment": "ts`_h i`",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 155584800000,
+          "duration": 705600000,
+          "lyric": "luo",
+          "comment": "l uo",
+          "pitch": 64,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 157348800000,
+          "duration": 352800000,
+          "lyric": "ti",
+          "comment": "t_h i",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 157701600000,
+          "duration": 705600000,
+          "lyric": "lei",
+          "comment": "l ei",
+          "pitch": 69,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 159465600000,
+          "duration": 352800000,
+          "lyric": "pang",
+          "comment": "p_h AN",
+          "pitch": 66,
+          "dF0Vbr": 0
+        },
+        {
+          "onset": 159818400000,
+          "duration": 352800000,
+          "lyric": "tuo",
+          "comment": "t_h uo",
+          "pitch": 66,
+          "dF0Vbr": 0
+        }
+      ],
+      "gsEvents": null,
+      "mixer": {
+        "gainDecibel": 0,
+        "pan": 0,
+        "muted": false,
+        "solo": false,
+        "engineOn": true,
+        "display": true
+      },
+      "parameters": {
+        "interval": 5512500,
+        "pitchDelta": [
+          0,
+          0
+        ],
+        "vibratoEnv": [
+          0,
+          0
+        ],
+        "loudness": [
+          0,
+          0
+        ],
+        "tension": [
+          0,
+          0
+        ],
+        "breathiness": [
+          0,
+          0
+        ],
+        "voicing": [
+          0,
+          0
+        ],
+        "gender": [
+          0,
+          0
+        ]
+      }
+    }
+  ],
+  "instrumental": {
+    "filename": "external/生死一舞的爱语 -Instrumental-.wav",
+    "offset": 8.469
+  },
+  "mixer": {
+    "gainInstrumentalDecibel": -6,
+    "gainVocalMasterDecibel": 0,
+    "instrumentalMuted": false,
+    "vocalMasterMuted": false
+  }
+}
