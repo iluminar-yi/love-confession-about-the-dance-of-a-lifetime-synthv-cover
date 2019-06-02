@@ -2628,7 +2628,7 @@
         "pan": 0,
         "muted": false,
         "solo": false,
-        "engineOn": true,
+        "engineOn": false,
         "display": true
       },
       "parameters": {
@@ -2741,7 +2741,7 @@
         "pan": 0,
         "muted": false,
         "solo": false,
-        "engineOn": true,
+        "engineOn": false,
         "display": true
       },
       "parameters": {
@@ -2854,7 +2854,7 @@
         "pan": 0,
         "muted": false,
         "solo": false,
-        "engineOn": true,
+        "engineOn": false,
         "display": true
       },
       "parameters": {
