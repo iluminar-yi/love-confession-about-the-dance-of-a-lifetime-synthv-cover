@@ -20,9 +20,9 @@
       "color": "15e879",
       "displayOrder": 0,
       "dbDefaults": {
-        "tension": 0,
-        "breathiness": 0,
-        "gender": 0,
+        "tension": -0.15,
+        "breathiness": 0.2,
+        "gender": -0.1,
         "tF0VbrStart": 0.25,
         "dF0Vbr": 0,
         "dF0Jitter": 0
