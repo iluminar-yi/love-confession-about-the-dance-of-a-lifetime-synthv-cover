@@ -177,14 +177,14 @@
       SEL 0
       IGUID {93FAFC19-B092-8543-AC61-C40F865F322D}
       IID 1
-      NAME "LoveConfessionAboutDanceOfALifetimeSynthVCover - Track 1.wav"
+      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 1.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {6B589982-C3A1-AC4E-ABF1-BE4DB9637679}
       <SOURCE WAVE
-        FILE "external/LoveConfessionAboutDanceOfALifetimeSynthVCover - Track 1.wav"
+        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 1.wav"
       >
     >
   >
@@ -223,14 +223,14 @@
       SEL 0
       IGUID {1C37EDC6-81E6-924E-9161-148536F2828E}
       IID 2
-      NAME "LoveConfessionAboutDanceOfALifetimeSynthVCover - Track 2.wav"
+      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 2.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {1AB3989D-23C9-7344-B230-854747EBBC34}
       <SOURCE WAVE
-        FILE "external/LoveConfessionAboutDanceOfALifetimeSynthVCover - Track 2.wav"
+        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 2.wav"
       >
     >
   >
@@ -269,14 +269,14 @@
       SEL 0
       IGUID {A8BB6A66-33B0-3849-9C7D-B3F49F17B093}
       IID 3
-      NAME "LoveConfessionAboutDanceOfALifetimeSynthVCover - Track 3.wav"
+      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 3.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {06CA4E61-9BC3-2B42-8B0A-BB187E0DD286}
       <SOURCE WAVE
-        FILE "external/LoveConfessionAboutDanceOfALifetimeSynthVCover - Track 3.wav"
+        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 3.wav"
       >
     >
   >
@@ -315,14 +315,14 @@
       SEL 0
       IGUID {66BEC930-4AB0-BD48-9774-C6F5414566A7}
       IID 4
-      NAME "LoveConfessionAboutDanceOfALifetimeSynthVCover - Track 4.wav"
+      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 4.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {0A7D2BA2-2EE1-A240-828F-498A995D078B}
       <SOURCE WAVE
-        FILE "external/LoveConfessionAboutDanceOfALifetimeSynthVCover - Track 4.wav"
+        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 4.wav"
       >
     >
   >
