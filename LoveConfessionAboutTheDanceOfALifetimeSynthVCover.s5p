@@ -22315,7 +22315,14 @@
       "dbName": "五维介质·赤羽",
       "color": "ff1599e8",
       "displayOrder": 1,
-      "dbDefaults": {},
+      "dbDefaults": {
+        "tension": -0.15,
+        "breathiness": -0.3,
+        "gender": 0.1,
+        "tF0VbrStart": 0.25,
+        "dF0Vbr": 0,
+        "dF0Jitter": 0
+      },
       "notes": [
         {
           "onset": 126302400000,
@@ -23060,7 +23067,14 @@
       "dbName": "五维介质·赤羽",
       "color": "ff4f15e8",
       "displayOrder": 2,
-      "dbDefaults": {},
+      "dbDefaults": {
+        "tension": -0.15,
+        "breathiness": -0.3,
+        "gender": -0.1,
+        "tF0VbrStart": 0.25,
+        "dF0Vbr": 0,
+        "dF0Jitter": 0
+      },
       "notes": [
         {
           "onset": 144648000000,
@@ -23173,7 +23187,14 @@
       "dbName": "五维介质·赤羽",
       "color": "ffe815c3",
       "displayOrder": 3,
-      "dbDefaults": {},
+      "dbDefaults": {
+        "tension": -0.15,
+        "breathiness": -0.3,
+        "gender": -0.1,
+        "tF0VbrStart": 0.25,
+        "dF0Vbr": 0,
+        "dF0Jitter": 0
+      },
       "notes": [
         {
           "onset": 144648000000,
