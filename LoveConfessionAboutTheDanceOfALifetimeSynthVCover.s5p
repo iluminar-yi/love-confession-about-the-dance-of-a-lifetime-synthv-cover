@@ -108768,6 +108768,349 @@
           0
         ]
       }
+    },
+    {
+      "name": "Changes+ Speaking",
+      "dbName": "五维介质·赤羽",
+      "color": "ffe82515",
+      "displayOrder": 6,
+      "dbDefaults": {
+        "tension": -0.15,
+        "breathiness": -0.6,
+        "gender": -0.2,
+        "tF0VbrStart": 0.25,
+        "dF0Vbr": 0,
+        "dF0Jitter": 0
+      },
+      "notes": [
+        {
+          "onset": 159112800000,
+          "duration": 176400000,
+          "lyric": "wo",
+          "comment": "我",
+          "pitch": 69
+        },
+        {
+          "onset": 159289200000,
+          "duration": 176400000,
+          "lyric": "ceng",
+          "comment": "曾",
+          "pitch": 69
+        },
+        {
+          "onset": 159465600000,
+          "duration": 220500000,
+          "lyric": "jing",
+          "comment": "经",
+          "pitch": 69
+        },
+        {
+          "onset": 159686100000,
+          "duration": 176400000,
+          "lyric": "yi",
+          "comment": "以",
+          "pitch": 69
+        },
+        {
+          "onset": 159906600000,
+          "duration": 132300000,
+          "lyric": "wei",
+          "comment": "为",
+          "pitch": 69
+        },
+        {
+          "onset": 160832700000,
+          "duration": 88200000,
+          "lyric": "zhi",
+          "comment": "只",
+          "pitch": 69
+        },
+        {
+          "onset": 160920900000,
+          "duration": 88200000,
+          "lyric": "yao",
+          "comment": "要",
+          "pitch": 69
+        },
+        {
+          "onset": 161185500000,
+          "duration": 220500000,
+          "lyric": "jian",
+          "comment": "坚",
+          "pitch": 69
+        },
+        {
+          "onset": 161450100000,
+          "duration": 132300000,
+          "lyric": "chi",
+          "comment": "持",
+          "pitch": 69
+        },
+        {
+          "onset": 162288000000,
+          "duration": 132300000,
+          "lyric": "jiu",
+          "comment": "就",
+          "pitch": 69
+        },
+        {
+          "onset": 162420300000,
+          "duration": 176400000,
+          "lyric": "neng",
+          "comment": "能",
+          "pitch": 69
+        },
+        {
+          "onset": 162640800000,
+          "duration": 176400000,
+          "lyric": "zai",
+          "comment": "在",
+          "pitch": 69
+        },
+        {
+          "onset": 162817200000,
+          "duration": 132300000,
+          "lyric": "yi",
+          "comment": "一",
+          "pitch": 69
+        },
+        {
+          "onset": 162993600000,
+          "duration": 176400000,
+          "lyric": "qi",
+          "comment": "起",
+          "pitch": 69
+        },
+        {
+          "onset": 164184300000,
+          "duration": 176400000,
+          "lyric": "shi",
+          "comment": "时",
+          "pitch": 69
+        },
+        {
+          "onset": 164404800000,
+          "duration": 220500000,
+          "lyric": "jian",
+          "comment": "间",
+          "pitch": 69
+        },
+        {
+          "onset": 164978100000,
+          "duration": 220500000,
+          "lyric": "qiao",
+          "comment": "悄",
+          "pitch": 69
+        },
+        {
+          "onset": 165242700000,
+          "duration": 176400000,
+          "lyric": "qiao",
+          "comment": "悄",
+          "pitch": 69
+        },
+        {
+          "onset": 165463200000,
+          "duration": 220500000,
+          "lyric": "shi",
+          "comment": "逝",
+          "pitch": 69
+        },
+        {
+          "onset": 165727800000,
+          "duration": 220500000,
+          "lyric": "qu",
+          "comment": "去",
+          "pitch": 69
+        },
+        {
+          "onset": 166565700000,
+          "duration": 220500000,
+          "lyric": "wo",
+          "comment": "我",
+          "pitch": 69
+        },
+        {
+          "onset": 166786200000,
+          "duration": 264600000,
+          "lyric": "que",
+          "comment": "却",
+          "pitch": 69
+        },
+        {
+          "onset": 167580000000,
+          "duration": 264600000,
+          "lyric": "si",
+          "comment": "思",
+          "pitch": 69
+        },
+        {
+          "onset": 167844600000,
+          "duration": 176400000,
+          "lyric": "er",
+          "comment": "而",
+          "pitch": 69
+        },
+        {
+          "onset": 168021000000,
+          "duration": 176400000,
+          "lyric": "bu",
+          "comment": "不",
+          "pitch": 69
+        },
+        {
+          "onset": 168197400000,
+          "duration": 176400000,
+          "lyric": "de",
+          "comment": "得",
+          "pitch": 69
+        },
+        {
+          "onset": 169167600000,
+          "duration": 264600000,
+          "lyric": "shen",
+          "comment": "神",
+          "pitch": 69
+        },
+        {
+          "onset": 169476300000,
+          "duration": 176400000,
+          "lyric": "a",
+          "comment": "啊",
+          "pitch": 69
+        },
+        {
+          "onset": 170005500000,
+          "duration": 220500000,
+          "lyric": "ni",
+          "comment": "你",
+          "pitch": 69
+        },
+        {
+          "onset": 170270100000,
+          "duration": 220500000,
+          "lyric": "gao",
+          "comment": "告",
+          "pitch": 69
+        },
+        {
+          "onset": 170490600000,
+          "duration": 176400000,
+          "lyric": "su",
+          "comment": "诉",
+          "pitch": 69
+        },
+        {
+          "onset": 170711100000,
+          "duration": 176400000,
+          "lyric": "wo",
+          "comment": "我",
+          "pitch": 69
+        },
+        {
+          "onset": 170887500000,
+          "duration": 176400000,
+          "lyric": "a",
+          "comment": "啊",
+          "pitch": 69
+        },
+        {
+          "onset": 171637200000,
+          "duration": 176400000,
+          "lyric": "wo",
+          "comment": "我",
+          "pitch": 69
+        },
+        {
+          "onset": 171813600000,
+          "duration": 176400000,
+          "lyric": "dao",
+          "comment": "到",
+          "pitch": 69
+        },
+        {
+          "onset": 171990000000,
+          "duration": 176400000,
+          "lyric": "di",
+          "comment": "底",
+          "pitch": 69
+        },
+        {
+          "onset": 172210500000,
+          "duration": 176400000,
+          "lyric": "zuo",
+          "comment": "做",
+          "pitch": 69
+        },
+        {
+          "onset": 172431000000,
+          "duration": 220500000,
+          "lyric": "cuo",
+          "comment": "错",
+          "pitch": 69
+        },
+        {
+          "onset": 172651500000,
+          "duration": 132300000,
+          "lyric": "le",
+          "comment": "了",
+          "pitch": 69
+        },
+        {
+          "onset": 172783800000,
+          "duration": 308700000,
+          "lyric": "shen",
+          "comment": "什",
+          "pitch": 69
+        },
+        {
+          "onset": 173092500000,
+          "duration": 220500000,
+          "lyric": "ma",
+          "comment": "么",
+          "pitch": 69
+        }
+      ],
+      "gsEvents": null,
+      "mixer": {
+        "gainDecibel": 0,
+        "pan": 0,
+        "muted": false,
+        "solo": false,
+        "engineOn": true,
+        "display": true
+      },
+      "parameters": {
+        "interval": 5512500,
+        "pitchDelta": [
+          0,
+          0
+        ],
+        "vibratoEnv": [
+          0,
+          0
+        ],
+        "loudness": [
+          0,
+          0
+        ],
+        "tension": [
+          0,
+          0
+        ],
+        "breathiness": [
+          0,
+          0
+        ],
+        "voicing": [
+          0,
+          0
+        ],
+        "gender": [
+          0,
+          0
+        ]
+      }
     }
   ],
   "instrumental": {
