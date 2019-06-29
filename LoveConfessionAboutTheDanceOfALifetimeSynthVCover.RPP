@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.978/OSX64" 1560756686
+<REAPER_PROJECT 0.1 "5.978/OSX64" 1561788767
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -97,12 +97,12 @@
   <PROJBAY
   >
   <TRACK {3047F951-A46F-B946-B4C0-42335D765C79}
-    NAME Instrumental
+    NAME "Instrumental - STO"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
     VOLPAN 0.50118723362727 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -142,12 +142,190 @@
       >
     >
   >
+  <TRACK {56D65A3B-7ED3-D744-870F-DFA1A51FB5C7}
+    NAME "Instrumental - Changes+"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.50118723362727 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {56D65A3B-7ED3-D744-870F-DFA1A51FB5C7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 201.1737879141418
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.022117 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EA780789-9C5B-1648-8D21-BD4975867CF0}
+      IID 5
+      NAME "生死一舞的爱语 -Instrumental-.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B1048D73-1B27-3743-B368-B3ED94E2B1B0}
+      <SOURCE WAVE
+        FILE "external/生死一舞的爱语 -Instrumental-.wav"
+      >
+    >
+  >
+  <TRACK {4177859E-1364-BB4B-8D0A-BB7251F4F7A5}
+    NAME "Reverb Note - Changes+"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.50118723362727 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4177859E-1364-BB4B-8D0A-BB7251F4F7A5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 0 0 806 550
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaVerb (Cockos)" reaverb.vst.dylib 0 "" 1919252066 ""
+        YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAwcybgD4AAIA/AAAAAAAAgD8AAIA/AAAAPwAAAAAAAAAARUNIT0dFTgAcAAAAAAAAAACAu0QAAMhDAAAAPwrXIzyEgjdCSgxCPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5C1190E2-A10C-9241-924A-31AD85C09FEC}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: ReaVerb (Cockos)" reaverb.vst.dylib 0 "" 1919252066 ""
+        YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAASAAAAAEAAAAAABAA
+        AAAAwc5NAD+01Ms+CtcjPAAAgD8AAIA/AAAAPwAAAAAAAAAAVkVSQkdFTgAYAAAAAAAAAABAnEUAAIA/AAC0QgAAAEEAAIA/
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BF665E99-A179-154D-B129-29A5A86F2258}
+      WAK 0
+    >
+    <ITEM
+      POSITION 201.15090324078184
+      SNAPOFFS 0
+      LENGTH 0.14590899122203
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DCF18582-143B-0641-8C34-BD03DA541F5D}
+      IID 54
+      NAME "生死一舞的爱语 -Instrumental-.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 201.15090324078182
+      PLAYRATE 1.00000000000021 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FEDC82CA-72DF-1A40-BBEF-A10ACBB7E53B}
+      <SOURCE WAVE
+        FILE "external/生死一舞的爱语 -Instrumental-.wav"
+      >
+    >
+  >
+  <TRACK {B5951355-A337-B443-9C1E-895AC97CC645}
+    NAME "Instrumental Ending - Changes+"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.56234132519035 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B5951355-A337-B443-9C1E-895AC97CC645}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 184 1110 836 444
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729 ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAqAAAAAEAAAAAABAA
+        IQAAAAQAAAAEAAAAAQAAAGP7cbZiP3FAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEDAAAAAQAAAEBZcLWclr9AwdsHm9Ba8D8AJzEIrBzuPwEBAAAAAQAAAAAAAAAAAPA/AAAAAFQCAABwAQAA
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {670E34E9-8B17-2647-BE45-27EA08AF1613}
+      WAK 0
+    >
+    <ITEM
+      POSITION 219.52941176470588
+      SNAPOFFS 0
+      LENGTH 20.55041423796476
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 8.131441 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2DA33D23-52BC-ED4E-AFF3-08E6CD7A1839}
+      IID 34
+      NAME "生死一舞的爱语 -Instrumental-.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 206.81938168040259
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B94094CA-A622-E046-AFB7-64A7A838A3BA}
+      <SOURCE WAVE
+        FILE "external/生死一舞的爱语 -Instrumental-.wav"
+      >
+    >
+  >
   <TRACK {7A8D979E-8B4D-CC4E-8302-86A9532B2B5C}
     NAME "Vocal Main FX"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 0.63095734448019 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -163,14 +341,16 @@
     FX 1
     TRACKID {7A8D979E-8B4D-CC4E-8302-86A9532B2B5C}
     PERF 0
-    AUXRECV 2 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
-    AUXRECV 3 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 5 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 6 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 7 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 8 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 544 1271 794 245
+      WNDRECT 279 109 806 550
       SHOW 0
-      LASTSEL 1
+      LASTSEL 2
       DOCKED 0
       BYPASS 1 0 0
       <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729 ""
@@ -192,7 +372,7 @@
       BYPASS 0 0 0
       <VST "VST: ReaVerb (Cockos)" reaverb.vst.dylib 0 "" 1919252066 ""
         YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAASAAAAAEAAAAAAAAA
-        AAAAwcybgD4AAIA/DnRaOwAAgD8AAIA/AAAAPwAAAAAAAAAAVkVSQkdFTgAYAAAAAAAgQQAAyELvOzU/xw2NQgAANEIAAIC/
+        AAAAwe87NT8AAIA/DnRaOwAAgD8AAIA/AAAAPwAAAAAAAAAAVkVSQkdFTgAYAAAAAAAgQQAAekTvOzU/AACCQgAAoEAAAAC/
         AHN3ZWV0dmVyYm8AAAAAAA==
       >
       PRESETNAME sweetverbo
@@ -214,7 +394,7 @@
     >
   >
   <TRACK {77EF34C3-7507-734C-B1CD-8051D9172270}
-    NAME "Vocal Main"
+    NAME "Vocal Main - STO"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -239,7 +419,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 175.76470588235293
+      LENGTH 177.11157502905886
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -248,23 +428,23 @@
       SEL 0
       IGUID {93FAFC19-B092-8543-AC61-C40F865F322D}
       IID 1
-      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 1.wav"
+      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - STO Main.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {6B589982-C3A1-AC4E-ABF1-BE4DB9637679}
       <SOURCE WAVE
-        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 1.wav"
+        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - STO Main.wav"
       >
     >
   >
   <TRACK {80D6806D-1079-184E-AB11-AEEEFF792CFD}
-    NAME "Vocal Main Last Section"
+    NAME "Vocal Main Last Section - STO"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 2.48313310529557 0 -1 -1 1
+    VOLPAN 2.21309470960564 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -289,9 +469,101 @@
       DOCKED 0
     >
     <ITEM
-      POSITION 175.76470588235293
+      POSITION 177.11157502905886
       SNAPOFFS 0
-      LENGTH 34.73062291583301
+      LENGTH 24.2118716829593
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5253DC45-2739-564E-8071-267E96B6990E}
+      IID 75
+      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - STO Main.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 177.11157502905886
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E143CDC5-1D81-A14C-904C-901B5AF70279}
+      <SOURCE WAVE
+        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - STO Main.wav"
+      >
+    >
+  >
+  <TRACK {DE8044A1-9641-964D-B896-88B709DC0A3F}
+    NAME "Vocal Main Ending - Changes+"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.77827941003892 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DE8044A1-9641-964D-B896-88B709DC0A3F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <ITEM
+      POSITION 201.0847761557082
+      SNAPOFFS 0
+      LENGTH 20.34715128193352
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7A20B6EE-353D-1042-940E-EAAB64C613D1}
+      IID 90
+      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Changes+ Ending.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 201.0847761557082
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {63DDF09A-8DCE-6040-A632-D74C0CF10DCB}
+      <SOURCE WAVE
+        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Changes+ Ending.wav"
+      >
+    >
+  >
+  <TRACK {EA755040-7CA8-CA46-8A02-C756B4D11743}
+    NAME "Vocal Main Ending - STO"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 2.48313310529557 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EA755040-7CA8-CA46-8A02-C756B4D11743}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    <ITEM
+      POSITION 201.0847761557082
+      SNAPOFFS 0
+      LENGTH 9.41055264247774
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
@@ -300,14 +572,14 @@
       SEL 0
       IGUID {89742995-E531-584A-8B68-F13F79C96A11}
       IID 10
-      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 1.wav"
+      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - STO Ending.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 175.76470588235293
+      SOFFS 201.0847761557082
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {1E321DF8-5027-E242-B96A-20BA833C1E00}
       <SOURCE WAVE
-        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 1.wav"
+        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - STO Ending.wav"
       >
     >
   >
@@ -346,14 +618,14 @@
       SEL 0
       IGUID {1C37EDC6-81E6-924E-9161-148536F2828E}
       IID 2
-      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 2.wav"
+      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Changes+ Soprano.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {1AB3989D-23C9-7344-B230-854747EBBC34}
       <SOURCE WAVE
-        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 2.wav"
+        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Changes+ Soprano.wav"
       >
     >
   >
@@ -363,7 +635,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 0.70794578438414 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -392,14 +664,14 @@
       SEL 0
       IGUID {A8BB6A66-33B0-3849-9C7D-B3F49F17B093}
       IID 3
-      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 3.wav"
+      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - STO Alto 1.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {06CA4E61-9BC3-2B42-8B0A-BB187E0DD286}
       <SOURCE WAVE
-        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 3.wav"
+        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - STO Alto 1.wav"
       >
     >
   >
@@ -409,7 +681,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 0.70794578438414 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -438,14 +710,14 @@
       SEL 0
       IGUID {66BEC930-4AB0-BD48-9774-C6F5414566A7}
       IID 4
-      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 4.wav"
+      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCover - STO Alto 2.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {0A7D2BA2-2EE1-A240-828F-498A995D078B}
       <SOURCE WAVE
-        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - Track 4.wav"
+        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCover - STO Alto 2.wav"
       >
     >
   >
