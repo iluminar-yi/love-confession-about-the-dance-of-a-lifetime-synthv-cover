@@ -243,7 +243,7 @@
           "lyric": "suo",
           "comment": "所",
           "pitch": 63,
-          "sublib": "G#4",
+          "sublib": "A4",
           "dF0Vbr": 0
         },
         {
@@ -252,7 +252,7 @@
           "lyric": "you",
           "comment": "有",
           "pitch": 64,
-          "sublib": "G#4",
+          "sublib": "A4",
           "dF0Vbr": 0
         },
         {
@@ -261,7 +261,7 @@
           "lyric": "dan",
           "comment": "旦",
           "pitch": 65,
-          "sublib": "G#4",
+          "sublib": "A4",
           "dF0Vbr": 0
         },
         {
@@ -368,7 +368,7 @@
           "lyric": "re",
           "comment": "惹",
           "pitch": 65,
-          "sublib": "G#4",
+          "sublib": "A4",
           "dF0Vbr": 0
         },
         {
@@ -377,7 +377,7 @@
           "lyric": "ni",
           "comment": "你",
           "pitch": 64,
-          "sublib": "G#4",
+          "sublib": "A4",
           "dF0Vbr": 0
         },
         {
@@ -452,7 +452,7 @@
           "lyric": "hua",
           "comment": "花",
           "pitch": 76,
-          "sublib": "B4",
+          "sublib": "D5",
           "dF0Vbr": 0
         },
         {
@@ -461,7 +461,7 @@
           "lyric": "duo",
           "comment": "朵",
           "pitch": 76,
-          "sublib": "B4",
+          "sublib": "D5",
           "tF0VbrLeft": 0.5,
           "tF0VbrRight": 0.15,
           "dF0Vbr": 0.01,
@@ -601,7 +601,7 @@
           "lyric": "fu",
           "comment": "抚",
           "pitch": 76,
-          "sublib": "B4",
+          "sublib": "D5",
           "dF0Vbr": 0
         },
         {
@@ -610,7 +610,7 @@
           "lyric": "shi",
           "comment": "时",
           "pitch": 76,
-          "sublib": "B4",
+          "sublib": "D5",
           "dF0Vbr": 0
         },
         {
@@ -619,7 +619,7 @@
           "lyric": "guang",
           "comment": "光",
           "pitch": 77,
-          "sublib": "B4",
+          "sublib": "D5",
           "dF0Vbr": 0
         },
         {
@@ -628,7 +628,7 @@
           "lyric": "xie",
           "comment": "挟",
           "pitch": 76,
-          "sublib": "B4",
+          "sublib": "D5",
           "dF0Vbr": 0
         },
         {
@@ -693,7 +693,7 @@
           "lyric": "yan",
           "comment": "眼",
           "pitch": 76,
-          "sublib": "B4",
+          "sublib": "D5",
           "tF0VbrStart": 0.15,
           "dF0Vbr": 0.01,
           "fF0Vbr": 6.5
@@ -802,7 +802,7 @@
           "lyric": "cuo",
           "comment": "错",
           "pitch": 76,
-          "sublib": "G#4",
+          "sublib": "A4",
           "tF0VbrRight": 0.5,
           "dF0Vbr": 0.015,
           "tSylOnset": -0.9,
@@ -1148,7 +1148,7 @@
           "lyric": "yi",
           "comment": "一",
           "pitch": 72,
-          "sublib": "B4",
+          "sublib": "D5",
           "dF0Vbr": 0
         },
         {
@@ -1268,7 +1268,7 @@
           "lyric": "zhe",
           "comment": "着",
           "pitch": 72,
-          "sublib": "B4",
+          "sublib": "D5",
           "dF0Vbr": 0
         },
         {
@@ -1418,7 +1418,7 @@
           "lyric": "ru",
           "comment": "如",
           "pitch": 69,
-          "sublib": "C4",
+          "sublib": "D#4",
           "dF0Vbr": 0
         },
         {
@@ -1427,7 +1427,7 @@
           "lyric": "wo",
           "comment": "我",
           "pitch": 72,
-          "sublib": "C4",
+          "sublib": "D#4",
           "dF0Vbr": 0.01,
           "fF0Vbr": 6
         },
@@ -1445,7 +1445,7 @@
           "lyric": "luo",
           "comment": "裸",
           "pitch": 71,
-          "sublib": "C4",
+          "sublib": "D#4",
           "dF0Vbr": 0,
           "fF0Vbr": 6
         },
@@ -1455,7 +1455,7 @@
           "lyric": "ti",
           "comment": "涕",
           "pitch": 69,
-          "sublib": "C4",
+          "sublib": "D#4",
           "dF0Vbr": 0
         },
         {
@@ -1464,7 +1464,7 @@
           "lyric": "lei",
           "comment": "泪",
           "pitch": 76,
-          "sublib": "C4",
+          "sublib": "D#4",
           "dF0Vbr": 0.01,
           "fF0Vbr": 6
         },
@@ -1482,7 +1482,7 @@
           "lyric": "tuo",
           "comment": "沱",
           "pitch": 74,
-          "sublib": "C4",
+          "sublib": "D#4",
           "dF0Vbr": 0.01,
           "fF0Vbr": 6,
           "tSylCoda": -0.5,
@@ -1542,7 +1542,7 @@
           "lyric": "sheng",
           "comment": "生",
           "pitch": 72,
-          "sublib": "B4",
+          "sublib": "D5",
           "dF0Vbr": 0
         },
         {
@@ -1551,7 +1551,7 @@
           "lyric": "-",
           "comment": "-",
           "pitch": 74,
-          "sublib": "B4",
+          "sublib": "D5",
           "dF0Vbr": 0
         },
         {
@@ -1560,7 +1560,7 @@
           "lyric": "de",
           "comment": "的",
           "pitch": 72,
-          "sublib": "C4",
+          "sublib": "D#4",
           "dF0Vbr": 0
         },
         {
@@ -1569,7 +1569,7 @@
           "lyric": "jia",
           "comment": "枷",
           "pitch": 71,
-          "sublib": "C4",
+          "sublib": "D#4",
           "dF0Vbr": 0
         },
         {
@@ -1578,7 +1578,7 @@
           "lyric": "suo",
           "comment": "锁",
           "pitch": 69,
-          "sublib": "C4",
+          "sublib": "D#4",
           "dF0Vbr": 0.015,
           "fF0Vbr": 7.5,
           "tNoteOffset": 0.05
@@ -1638,7 +1638,7 @@
           "lyric": "hua",
           "comment": "花",
           "pitch": 76,
-          "sublib": "B4",
+          "sublib": "D5",
           "tF0VbrStart": 0.1,
           "dF0Vbr": 0.05
         },
@@ -1661,7 +1661,7 @@
           "lyric": "zhi",
           "comment": "只",
           "pitch": 71,
-          "sublib": "C4",
+          "sublib": "D#4",
           "dF0Vbr": 0
         },
         {
@@ -1670,7 +1670,7 @@
           "lyric": "wei",
           "comment": "为",
           "pitch": 72,
-          "sublib": "C4",
+          "sublib": "D#4",
           "dF0Vbr": 0
         },
         {
@@ -1679,7 +1679,7 @@
           "lyric": "ni",
           "comment": "你",
           "pitch": 71,
-          "sublib": "C4",
+          "sublib": "D#4",
           "dF0Vbr": 0
         },
         {
@@ -1688,7 +1688,7 @@
           "lyric": "sheng",
           "comment": "生",
           "pitch": 69,
-          "sublib": "C4",
+          "sublib": "D#4",
           "dF0Vbr": 0
         },
         {
@@ -1697,7 +1697,7 @@
           "lyric": "si",
           "comment": "死",
           "pitch": 69,
-          "sublib": "C4",
+          "sublib": "D#4",
           "dF0Vbr": 0
         },
         {
@@ -1706,7 +1706,7 @@
           "lyric": "yi",
           "comment": "一",
           "pitch": 67,
-          "sublib": "G#4",
+          "sublib": "A4",
           "dF0Vbr": 0
         },
         {
@@ -1715,7 +1715,7 @@
           "lyric": "wu",
           "comment": "舞",
           "pitch": 64,
-          "sublib": "C4",
+          "sublib": "D#4",
           "tF0VbrStart": 0,
           "tF0VbrRight": 0.1,
           "dF0Vbr": 0.01,
@@ -1754,7 +1754,7 @@
           "lyric": "ni",
           "comment": "你",
           "pitch": 72,
-          "sublib": "B4",
+          "sublib": "D5",
           "dF0Vbr": 0
         },
         {
@@ -1763,7 +1763,7 @@
           "lyric": "de",
           "comment": "的",
           "pitch": 72,
-          "sublib": "G#4",
+          "sublib": "A4",
           "dF0Vbr": 0
         },
         {
@@ -1772,7 +1772,7 @@
           "lyric": "-",
           "comment": "-",
           "pitch": 71,
-          "sublib": "G#4",
+          "sublib": "A4",
           "dF0Vbr": 0
         },
         {
@@ -1781,7 +1781,7 @@
           "lyric": "-",
           "comment": "-",
           "pitch": 69,
-          "sublib": "G#4",
+          "sublib": "A4",
           "dF0Vbr": 0
         },
         {
@@ -1888,7 +1888,7 @@
           "lyric": "fen",
           "comment": "焚",
           "pitch": 79,
-          "sublib": "G#4",
+          "sublib": "A4",
           "tF0VbrStart": 0,
           "dF0Vbr": 0.015,
           "fF0Vbr": 6.5,
@@ -1900,7 +1900,7 @@
           "lyric": "-",
           "comment": "-",
           "pitch": 81,
-          "sublib": "G#4",
+          "sublib": "A4",
           "tF0VbrStart": 0,
           "dF0Vbr": 0.015,
           "fF0Vbr": 6.5,
@@ -1912,7 +1912,7 @@
           "lyric": "wo",
           "comment": "我",
           "pitch": 79,
-          "sublib": "G#4",
+          "sublib": "A4",
           "tF0VbrStart": 0,
           "tF0VbrLeft": 0,
           "tF0VbrRight": 0,
@@ -83512,7 +83512,7 @@
           "lyric": "wo",
           "comment": "我",
           "pitch": 79,
-          "sublib": "G#4",
+          "sublib": "A4",
           "tF0VbrStart": 0,
           "tF0VbrLeft": 0,
           "tF0VbrRight": 0,
@@ -83526,7 +83526,7 @@
           "lyric": "-",
           "comment": "-",
           "pitch": 81,
-          "sublib": "G#4",
+          "sublib": "A4",
           "tF0VbrStart": 0,
           "tF0VbrLeft": 0,
           "tF0VbrRight": 0,
@@ -83584,7 +83584,7 @@
           "lyric": "bu",
           "comment": "不",
           "pitch": 74,
-          "sublib": "B4",
+          "sublib": "D5",
           "tF0VbrStart": 0,
           "tF0VbrRight": 0.5,
           "dF0Vbr": 0.01,
@@ -83596,7 +83596,7 @@
           "lyric": "ju",
           "comment": "惧",
           "pitch": 74,
-          "sublib": "B4",
+          "sublib": "D5",
           "tF0VbrStart": 0,
           "dF0Vbr": 0.01,
           "fF0Vbr": 7
@@ -83607,7 +83607,7 @@
           "lyric": "-",
           "comment": "-",
           "pitch": 76,
-          "sublib": "B4",
+          "sublib": "D5",
           "tF0VbrStart": 0,
           "tF0VbrRight": 0.5,
           "dF0Vbr": 0.01,
@@ -94083,7 +94083,7 @@
           "lyric": "wo",
           "comment": "我",
           "pitch": 79,
-          "sublib": "G#4",
+          "sublib": "A4",
           "tF0VbrStart": 0,
           "tF0VbrLeft": 0,
           "tF0VbrRight": 0,
@@ -94097,7 +94097,7 @@
           "lyric": "-",
           "comment": "-",
           "pitch": 81,
-          "sublib": "G#4",
+          "sublib": "A4",
           "tF0VbrStart": 0,
           "tF0VbrLeft": 0,
           "tF0VbrRight": 0,
@@ -94111,7 +94111,7 @@
           "lyric": "xiao",
           "comment": "笑",
           "pitch": 76,
-          "sublib": "B4",
+          "sublib": "D5",
           "tSylOnset": 0.8,
           "wSylNucleus": 0.56
         },
@@ -94121,7 +94121,7 @@
           "lyric": "zhe",
           "comment": "着",
           "pitch": 77,
-          "sublib": "B4",
+          "sublib": "D5",
           "tSylOnset": 0.8,
           "wSylNucleus": 0.56
         },
@@ -94131,7 +94131,7 @@
           "lyric": "ku",
           "comment": "枯",
           "pitch": 74,
-          "sublib": "B4",
+          "sublib": "D5",
           "tSylOnset": 0.8,
           "wSylNucleus": 0.56
         },
@@ -94141,7 +94141,7 @@
           "lyric": "-",
           "comment": "-",
           "pitch": 76,
-          "sublib": "B4",
+          "sublib": "D5",
           "tSylOnset": 0.8,
           "wSylNucleus": 0.56
         },
@@ -94151,7 +94151,7 @@
           "lyric": "wei",
           "comment": "萎",
           "pitch": 69,
-          "sublib": "B4",
+          "sublib": "D5",
           "tSylOnset": 0.8,
           "wSylNucleus": 0.56
         },
@@ -94161,7 +94161,7 @@
           "lyric": "bu",
           "comment": "不",
           "pitch": 74,
-          "sublib": "B4",
+          "sublib": "D5",
           "tSylOnset": 0.8,
           "wSylNucleus": 0.56
         },
@@ -94171,7 +94171,7 @@
           "lyric": "ju",
           "comment": "惧",
           "pitch": 74,
-          "sublib": "B4",
+          "sublib": "D5",
           "tSylOnset": 0.8,
           "wSylNucleus": 0.56
         },
@@ -94181,7 +94181,7 @@
           "lyric": "-",
           "comment": "-",
           "pitch": 76,
-          "sublib": "B4",
+          "sublib": "D5",
           "tSylOnset": 0.8,
           "wSylNucleus": 0.56
         },
@@ -94191,7 +94191,7 @@
           "lyric": "zhui",
           "comment": "坠",
           "pitch": 74,
-          "sublib": "B4",
+          "sublib": "D5",
           "tSylOnset": 0.8,
           "wSylNucleus": 0.56
         },
@@ -94201,7 +94201,7 @@
           "lyric": "luo",
           "comment": "落",
           "pitch": 76,
-          "sublib": "B4",
+          "sublib": "D5",
           "dF0Vbr": 0.015,
           "tSylOnset": 0.8,
           "tSylCoda": -1.5,
