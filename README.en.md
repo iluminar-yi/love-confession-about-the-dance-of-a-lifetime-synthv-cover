@@ -23,6 +23,12 @@ The list of tags are visible in multiple place, including
 The use of original instrumental, lyric and melody have been authorized by [绿邪](https://www.weibo.com/aiily) on 05/30/2019
 as shown in [`Proof_of_Authroization.png`](/Proof_of_Authroization.png).
 
+## Tool Versions
+* Synthesizer V Build 017
+* Chiyu Build 010
+* REAPER v5.979
+
+## Notice
 My work is done on the `.s5p` files and `.RPP` files found in this repository,
 as well as any supporting documents. These materials are licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 whose copy can also be found in [`LICENSE`](/LICENSE). Should any other content infringes the copyright of the respective copyright owner,
