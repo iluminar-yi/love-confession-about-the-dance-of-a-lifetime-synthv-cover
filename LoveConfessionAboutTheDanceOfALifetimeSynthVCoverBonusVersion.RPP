@@ -324,7 +324,7 @@
     >
   >
   <TRACK {83F328B7-451F-BE4E-81DD-3DD108CE5909}
-    NAME "Speaking - Changes+"
+    NAME "Speaking"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -374,14 +374,14 @@
       SEL 0
       IGUID {F9A839A8-9718-0C46-8AEC-653D1A0EB3DC}
       IID 100
-      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCoverBonusVersion - Changes+ Speaking.wav"
+      NAME "LoveConfessionAboutTheDanceOfALifetimeSynthVCoverBonusVersion - Speaking.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {1CA83EE7-CD4A-6A45-B55A-F6E397D7B786}
       <SOURCE WAVE
-        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCoverBonusVersion - Changes+ Speaking.wav"
+        FILE "external/LoveConfessionAboutTheDanceOfALifetimeSynthVCoverBonusVersion - Speaking.wav"
       >
     >
   >
