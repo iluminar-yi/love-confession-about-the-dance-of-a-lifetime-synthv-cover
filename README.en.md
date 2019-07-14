@@ -26,7 +26,7 @@ as shown in [`Proof_of_Authroization.png`](/Proof_of_Authroization.png).
 ## Tool Versions
 * Synthesizer V Build 017
 * Chiyu Build 010
-* REAPER v5.979
+* REAPER v5.980
 
 ## Notice
 My work is done on the `.s5p` files and `.RPP` files found in this repository,
