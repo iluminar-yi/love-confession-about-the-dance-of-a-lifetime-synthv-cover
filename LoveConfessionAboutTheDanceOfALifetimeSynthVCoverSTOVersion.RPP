@@ -706,7 +706,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -864,7 +864,7 @@
       FADEIN 1.1 0 0 1 0 0
       FADEOUT 1 0.334278 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {3F4200E1-9A94-4448-BB87-167F476DD728}
       IID 124
       NAME "Breath In.wav"
