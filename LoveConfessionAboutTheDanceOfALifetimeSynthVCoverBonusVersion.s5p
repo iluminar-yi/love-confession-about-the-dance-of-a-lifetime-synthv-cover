@@ -106469,7 +106469,7 @@
       "name": "Speaking",
       "dbName": "五维介质·赤羽",
       "color": "ffe82515",
-      "displayOrder": 5,
+      "displayOrder": 3,
       "dbDefaults": {
         "tension": -0.15,
         "breathiness": -0.6,
